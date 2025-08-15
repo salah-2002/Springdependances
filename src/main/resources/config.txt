@@ -1,0 +1,2 @@
+dao.class=com.example.didemo.dao.DaoImpl
+metier.class=com.example.didemo.metier.MetierImpl
