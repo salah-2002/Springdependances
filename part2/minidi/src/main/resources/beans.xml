@@ -1,0 +1,5 @@
+<beans>
+    <bean id="dao" class="com.example.app.DaoImpl"/>
+    <bean id="metier" class="com.example.app.MetierImpl"/>
+  </beans>
+  
